@@ -1,7 +1,7 @@
 <?php 
 
 /*
- * Plugin Name:       Additional Registration Attributes(Free)
+ * Plugin Name:       Additional Registration Attributes (Free)
  * Plugin URI:        http://fmeaddons.com/wordpress/fmeaddon-add-registration-atributes
  * Description:       FME Addons Add Registration Attributes provaide facility to manage fileds on registration page. By using this module you can gather extra valueable information from your customers.
  * Version:           1.0.2
